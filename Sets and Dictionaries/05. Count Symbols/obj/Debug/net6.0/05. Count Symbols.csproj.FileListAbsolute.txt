@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.exe
+D:\Download\Visual Studio C#\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.deps.json
+D:\Download\Visual Studio C#\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.runtimeconfig.json
+D:\Download\Visual Studio C#\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.dll
+D:\Download\Visual Studio C#\05. Count Symbols\bin\Debug\net6.0\ref\05. Count Symbols.dll
+D:\Download\Visual Studio C#\05. Count Symbols\bin\Debug\net6.0\05. Count Symbols.pdb
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.AssemblyInfo.cs
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.dll
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\ref\05. Count Symbols.dll
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.pdb
+D:\Download\Visual Studio C#\05. Count Symbols\obj\Debug\net6.0\05. Count Symbols.genruntimeconfig.cache

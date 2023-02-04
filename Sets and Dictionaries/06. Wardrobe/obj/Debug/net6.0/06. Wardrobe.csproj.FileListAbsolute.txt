@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.exe
+D:\Download\Visual Studio C#\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.deps.json
+D:\Download\Visual Studio C#\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.runtimeconfig.json
+D:\Download\Visual Studio C#\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.dll
+D:\Download\Visual Studio C#\06. Wardrobe\bin\Debug\net6.0\ref\06. Wardrobe.dll
+D:\Download\Visual Studio C#\06. Wardrobe\bin\Debug\net6.0\06. Wardrobe.pdb
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.AssemblyInfo.cs
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.dll
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\ref\06. Wardrobe.dll
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.pdb
+D:\Download\Visual Studio C#\06. Wardrobe\obj\Debug\net6.0\06. Wardrobe.genruntimeconfig.cache

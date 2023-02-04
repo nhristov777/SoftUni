@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.exe
+D:\Download\Visual Studio C#\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.deps.json
+D:\Download\Visual Studio C#\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.runtimeconfig.json
+D:\Download\Visual Studio C#\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.dll
+D:\Download\Visual Studio C#\01. Unique Usernames\bin\Debug\net6.0\ref\01. Unique Usernames.dll
+D:\Download\Visual Studio C#\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.pdb
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfo.cs
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.dll
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\ref\01. Unique Usernames.dll
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.pdb
+D:\Download\Visual Studio C#\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.genruntimeconfig.cache

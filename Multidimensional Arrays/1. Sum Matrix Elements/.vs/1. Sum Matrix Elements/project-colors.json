@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09270882-c967-4d6e-a6d9-9297936ad3a5": {
+      "ProjectGuid": "09270882-c967-4d6e-a6d9-9297936ad3a5",
+      "DisplayName": "1. Sum Matrix Elements",
+      "ColorIndex": 0
+    },
+    "b265d8e2-9346-467b-b860-78e68ca4889c": {
+      "ProjectGuid": "b265d8e2-9346-467b-b860-78e68ca4889c",
+      "DisplayName": "2. Sum Matrix Columns",
+      "ColorIndex": 1
+    },
+    "238f6e35-fce2-4eba-92e0-cf99138707c7": {
+      "ProjectGuid": "238f6e35-fce2-4eba-92e0-cf99138707c7",
+      "DisplayName": "3. Primary Diagonal",
+      "ColorIndex": 2
+    },
+    "8804d217-81b0-4325-88ae-b7a9e26c3320": {
+      "ProjectGuid": "8804d217-81b0-4325-88ae-b7a9e26c3320",
+      "DisplayName": "4. Symbol in Matrix",
+      "ColorIndex": 3
+    },
+    "40ed14a7-4c74-4099-a5ed-ffb9642273b9": {
+      "ProjectGuid": "40ed14a7-4c74-4099-a5ed-ffb9642273b9",
+      "DisplayName": "5. Square With Maximum Sum",
+      "ColorIndex": 4
+    },
+    "638e1a42-f04b-43e9-923c-586464c9c63c": {
+      "ProjectGuid": "638e1a42-f04b-43e9-923c-586464c9c63c",
+      "DisplayName": "6. Jagged-Array Modification",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

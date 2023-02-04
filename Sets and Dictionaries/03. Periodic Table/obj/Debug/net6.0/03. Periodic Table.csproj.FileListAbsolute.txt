@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+D:\Download\Visual Studio C#\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+D:\Download\Visual Studio C#\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+D:\Download\Visual Studio C#\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+D:\Download\Visual Studio C#\03. Periodic Table\bin\Debug\net6.0\ref\03. Periodic Table.dll
+D:\Download\Visual Studio C#\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+D:\Download\Visual Studio C#\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.AssemblyInfo.cs
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\BoxOfT\bin\Debug\net6.0\BoxOfT.exe
+D:\Download\Visual Studio C#\BoxOfT\bin\Debug\net6.0\BoxOfT.deps.json
+D:\Download\Visual Studio C#\BoxOfT\bin\Debug\net6.0\BoxOfT.runtimeconfig.json
+D:\Download\Visual Studio C#\BoxOfT\bin\Debug\net6.0\BoxOfT.dll
+D:\Download\Visual Studio C#\BoxOfT\bin\Debug\net6.0\ref\BoxOfT.dll
+D:\Download\Visual Studio C#\BoxOfT\bin\Debug\net6.0\BoxOfT.pdb
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.dll
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\ref\BoxOfT.dll
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.pdb
+D:\Download\Visual Studio C#\BoxOfT\obj\Debug\net6.0\BoxOfT.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b13acd6e-7bf7-463a-b425-8b1cf7a2099c": {
+      "ProjectGuid": "b13acd6e-7bf7-463a-b425-8b1cf7a2099c",
+      "DisplayName": "01. Unique Usernames",
+      "ColorIndex": 0
+    },
+    "3124a9dd-341d-4408-878b-41de0ac373a2": {
+      "ProjectGuid": "3124a9dd-341d-4408-878b-41de0ac373a2",
+      "DisplayName": "02. Sets of Elements",
+      "ColorIndex": 1
+    },
+    "54427f8a-126b-4f78-a3cd-2d46c620505f": {
+      "ProjectGuid": "54427f8a-126b-4f78-a3cd-2d46c620505f",
+      "DisplayName": "03. Periodic Table",
+      "ColorIndex": 2
+    },
+    "98f633ce-0477-4264-ac48-2d7c08865f2f": {
+      "ProjectGuid": "98f633ce-0477-4264-ac48-2d7c08865f2f",
+      "DisplayName": "05. Count Symbols",
+      "ColorIndex": 3
+    },
+    "0be6745b-7197-4c98-bbef-69e5f569f368": {
+      "ProjectGuid": "0be6745b-7197-4c98-bbef-69e5f569f368",
+      "DisplayName": "04. Even Times",
+      "ColorIndex": 4
+    },
+    "a0327dbe-6f31-459c-8c8d-d7782ccb6841": {
+      "ProjectGuid": "a0327dbe-6f31-459c-8c8d-d7782ccb6841",
+      "DisplayName": "06. Wardrobe",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

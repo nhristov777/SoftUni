@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.exe
+D:\Download\Visual Studio C#\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.deps.json
+D:\Download\Visual Studio C#\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.runtimeconfig.json
+D:\Download\Visual Studio C#\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.dll
+D:\Download\Visual Studio C#\GenericArrayCreator\bin\Debug\net6.0\ref\GenericArrayCreator.dll
+D:\Download\Visual Studio C#\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.pdb
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfo.cs
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.dll
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\ref\GenericArrayCreator.dll
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.pdb
+D:\Download\Visual Studio C#\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.genruntimeconfig.cache
