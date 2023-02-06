@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\GenericBoxInteger\bin\Debug\net6.0\GenericBoxInteger.exe
+D:\Download\Visual Studio C#\GenericBoxInteger\bin\Debug\net6.0\GenericBoxInteger.deps.json
+D:\Download\Visual Studio C#\GenericBoxInteger\bin\Debug\net6.0\GenericBoxInteger.runtimeconfig.json
+D:\Download\Visual Studio C#\GenericBoxInteger\bin\Debug\net6.0\GenericBoxInteger.dll
+D:\Download\Visual Studio C#\GenericBoxInteger\bin\Debug\net6.0\ref\GenericBoxInteger.dll
+D:\Download\Visual Studio C#\GenericBoxInteger\bin\Debug\net6.0\GenericBoxInteger.pdb
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.AssemblyInfo.cs
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.dll
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\ref\GenericBoxInteger.dll
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.pdb
+D:\Download\Visual Studio C#\GenericBoxInteger\obj\Debug\net6.0\GenericBoxInteger.genruntimeconfig.cache

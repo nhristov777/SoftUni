@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c4fe137-d570-42c7-8976-f760ec07dd5c": {
+      "ProjectGuid": "0c4fe137-d570-42c7-8976-f760ec07dd5c",
+      "DisplayName": "GenericBoxInteger",
+      "ColorIndex": 0
+    },
+    "da9146f3-f864-433e-8e8a-8ea1e7ecf847": {
+      "ProjectGuid": "da9146f3-f864-433e-8e8a-8ea1e7ecf847",
+      "DisplayName": "GenericSwapString",
+      "ColorIndex": 1
+    },
+    "f0cfe837-a48d-43ac-93fb-2b9a6a0bee02": {
+      "ProjectGuid": "f0cfe837-a48d-43ac-93fb-2b9a6a0bee02",
+      "DisplayName": "GenericSwapInt",
+      "ColorIndex": 2
+    },
+    "0e129543-51b5-4dc1-bfe8-673d3b776a8f": {
+      "ProjectGuid": "0e129543-51b5-4dc1-bfe8-673d3b776a8f",
+      "DisplayName": "GenericCountString",
+      "ColorIndex": 3
+    },
+    "adbc6fec-2075-4181-aed3-40756fd960da": {
+      "ProjectGuid": "adbc6fec-2075-4181-aed3-40756fd960da",
+      "DisplayName": "GenericCountDouble",
+      "ColorIndex": 4
+    },
+    "16b69c74-4f9a-4648-b1bd-09a311c828b7": {
+      "ProjectGuid": "16b69c74-4f9a-4648-b1bd-09a311c828b7",
+      "DisplayName": "Tuple",
+      "ColorIndex": 5
+    },
+    "12f346f6-9e72-4c52-a220-f78e490f35f4": {
+      "ProjectGuid": "12f346f6-9e72-4c52-a220-f78e490f35f4",
+      "DisplayName": "Threeuple",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

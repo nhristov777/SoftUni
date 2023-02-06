@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\Tuple\bin\Debug\net6.0\Tuple.exe
+D:\Download\Visual Studio C#\Tuple\bin\Debug\net6.0\Tuple.deps.json
+D:\Download\Visual Studio C#\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+D:\Download\Visual Studio C#\Tuple\bin\Debug\net6.0\Tuple.dll
+D:\Download\Visual Studio C#\Tuple\bin\Debug\net6.0\ref\Tuple.dll
+D:\Download\Visual Studio C#\Tuple\bin\Debug\net6.0\Tuple.pdb
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.dll
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\ref\Tuple.dll
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.pdb
+D:\Download\Visual Studio C#\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache

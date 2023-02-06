@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\GenericSwapInt\bin\Debug\net6.0\GenericSwapInt.exe
+D:\Download\Visual Studio C#\GenericSwapInt\bin\Debug\net6.0\GenericSwapInt.deps.json
+D:\Download\Visual Studio C#\GenericSwapInt\bin\Debug\net6.0\GenericSwapInt.runtimeconfig.json
+D:\Download\Visual Studio C#\GenericSwapInt\bin\Debug\net6.0\GenericSwapInt.dll
+D:\Download\Visual Studio C#\GenericSwapInt\bin\Debug\net6.0\ref\GenericSwapInt.dll
+D:\Download\Visual Studio C#\GenericSwapInt\bin\Debug\net6.0\GenericSwapInt.pdb
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.AssemblyInfo.cs
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.dll
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\ref\GenericSwapInt.dll
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.pdb
+D:\Download\Visual Studio C#\GenericSwapInt\obj\Debug\net6.0\GenericSwapInt.genruntimeconfig.cache

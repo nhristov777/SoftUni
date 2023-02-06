@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3128af7b-30c6-4ac8-8667-adde2c72a4d9": {
+      "ProjectGuid": "3128af7b-30c6-4ac8-8667-adde2c72a4d9",
+      "DisplayName": "01. Generic Box of String",
+      "ColorIndex": 0
+    },
+    "c0a637d5-ed20-4ad5-9e1a-af6036a13bb3": {
+      "ProjectGuid": "c0a637d5-ed20-4ad5-9e1a-af6036a13bb3",
+      "DisplayName": "02. Generic Box of Integer",
+      "ColorIndex": 1
+    },
+    "8ee67b6a-148c-424e-a2c8-b2d6705d8b20": {
+      "ProjectGuid": "8ee67b6a-148c-424e-a2c8-b2d6705d8b20",
+      "DisplayName": "03. Generic Swap Method String",
+      "ColorIndex": 2
+    },
+    "2226e38a-bf02-4b7b-b3e1-0417e22fad58": {
+      "ProjectGuid": "2226e38a-bf02-4b7b-b3e1-0417e22fad58",
+      "DisplayName": "04. Generic Swap Method Integer",
+      "ColorIndex": 3
+    },
+    "2256146b-f7e5-4293-a69d-a54bcd7ae011": {
+      "ProjectGuid": "2256146b-f7e5-4293-a69d-a54bcd7ae011",
+      "DisplayName": "05. Generic Count Method String",
+      "ColorIndex": 4
+    },
+    "db2c477a-a798-473b-a6eb-4fde0e0fa6a8": {
+      "ProjectGuid": "db2c477a-a798-473b-a6eb-4fde0e0fa6a8",
+      "DisplayName": "GenericBoxInteger",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

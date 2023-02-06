@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.exe
+D:\Download\Visual Studio C#\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.deps.json
+D:\Download\Visual Studio C#\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.runtimeconfig.json
+D:\Download\Visual Studio C#\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.dll
+D:\Download\Visual Studio C#\01. Generic Box of String\bin\Debug\net6.0\ref\01. Generic Box of String.dll
+D:\Download\Visual Studio C#\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.pdb
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.AssemblyInfo.cs
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.dll
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\ref\01. Generic Box of String.dll
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.pdb
+D:\Download\Visual Studio C#\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\GenericCountString\bin\Debug\net6.0\GenericCountString.exe
+D:\Download\Visual Studio C#\GenericCountString\bin\Debug\net6.0\GenericCountString.deps.json
+D:\Download\Visual Studio C#\GenericCountString\bin\Debug\net6.0\GenericCountString.runtimeconfig.json
+D:\Download\Visual Studio C#\GenericCountString\bin\Debug\net6.0\GenericCountString.dll
+D:\Download\Visual Studio C#\GenericCountString\bin\Debug\net6.0\ref\GenericCountString.dll
+D:\Download\Visual Studio C#\GenericCountString\bin\Debug\net6.0\GenericCountString.pdb
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.AssemblyInfo.cs
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.dll
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\ref\GenericCountString.dll
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.pdb
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.genruntimeconfig.cache
+D:\Download\Visual Studio C#\GenericCountString\obj\Debug\net6.0\GenericCountString.csproj.AssemblyReference.cache
