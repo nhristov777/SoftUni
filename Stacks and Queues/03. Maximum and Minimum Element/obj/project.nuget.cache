@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4937stH/hdDg/9ELNAdbU9CmMJVED/0HB9OwGaGRvvCcHUmRHcZqYds6nANMg8kaMDNdNLyZrhIO+fFyptX6w==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Visual Studio C#\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53b62d50-6dca-4e39-b410-9f778c6ad08a": {
+      "ProjectGuid": "53b62d50-6dca-4e39-b410-9f778c6ad08a",
+      "DisplayName": "1. Reverse a String",
+      "ColorIndex": 0
+    },
+    "02ce62c1-3c5d-44f0-94b6-5c8ea56700f9": {
+      "ProjectGuid": "02ce62c1-3c5d-44f0-94b6-5c8ea56700f9",
+      "DisplayName": "2. Stack Sum",
+      "ColorIndex": 1
+    },
+    "59c15649-e4b3-4b9d-9dc0-cd4021cf27d5": {
+      "ProjectGuid": "59c15649-e4b3-4b9d-9dc0-cd4021cf27d5",
+      "DisplayName": "3. Simple Calculator",
+      "ColorIndex": 2
+    },
+    "7e723a6e-a03f-4837-9f46-0f508d0eb344": {
+      "ProjectGuid": "7e723a6e-a03f-4837-9f46-0f508d0eb344",
+      "DisplayName": "4. Matching Brackets",
+      "ColorIndex": 3
+    },
+    "d3655035-bd79-448a-a53f-f7144ded6189": {
+      "ProjectGuid": "d3655035-bd79-448a-a53f-f7144ded6189",
+      "DisplayName": "5. Print Even Numbers",
+      "ColorIndex": 4
+    },
+    "470126bb-b8f8-4cb1-a64a-d76924aec1c2": {
+      "ProjectGuid": "470126bb-b8f8-4cb1-a64a-d76924aec1c2",
+      "DisplayName": "6. Supermarket",
+      "ColorIndex": 5
+    },
+    "e302ca59-64bc-47dd-ab10-fe4dd208056d": {
+      "ProjectGuid": "e302ca59-64bc-47dd-ab10-fe4dd208056d",
+      "DisplayName": "7. Hot Potato",
+      "ColorIndex": 6
+    },
+    "af50bca8-f7f7-48c4-be36-bc44235b9b2c": {
+      "ProjectGuid": "af50bca8-f7f7-48c4-be36-bc44235b9b2c",
+      "DisplayName": "8. Traffic Jam",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

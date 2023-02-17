@@ -1,0 +1,13 @@
+D:\Download\Visual Studio C#\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.exe
+D:\Download\Visual Studio C#\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.deps.json
+D:\Download\Visual Studio C#\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.json
+D:\Download\Visual Studio C#\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.dev.json
+D:\Download\Visual Studio C#\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+D:\Download\Visual Studio C#\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfo.cs
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+D:\Download\Visual Studio C#\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.genruntimeconfig.cache

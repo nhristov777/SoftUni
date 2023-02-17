@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IiKk+e/c+DFDEXg7HYjBAWvrSYGBf8JOc95aBFhcf3rms6Yeg4/4N9AdfGrCzSzm1nBFPyBNPPyGWKEp3paAnw==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Visual Studio C#\\05. Fashion Boutique\\05. Fashion Boutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

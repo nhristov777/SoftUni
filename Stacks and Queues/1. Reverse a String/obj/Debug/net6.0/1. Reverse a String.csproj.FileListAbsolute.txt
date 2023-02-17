@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.exe
+D:\Download\Visual Studio C#\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.deps.json
+D:\Download\Visual Studio C#\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.runtimeconfig.json
+D:\Download\Visual Studio C#\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.dll
+D:\Download\Visual Studio C#\1. Reverse a String\bin\Debug\net6.0\ref\1. Reverse a String.dll
+D:\Download\Visual Studio C#\1. Reverse a String\bin\Debug\net6.0\1. Reverse a String.pdb
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.AssemblyInfo.cs
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.dll
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\ref\1. Reverse a String.dll
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.pdb
+D:\Download\Visual Studio C#\1. Reverse a String\obj\Debug\net6.0\1. Reverse a String.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.exe
+D:\Download\Visual Studio C#\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.deps.json
+D:\Download\Visual Studio C#\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.runtimeconfig.json
+D:\Download\Visual Studio C#\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.dll
+D:\Download\Visual Studio C#\7. Hot Potato\bin\Debug\net6.0\ref\7. Hot Potato.dll
+D:\Download\Visual Studio C#\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.pdb
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.AssemblyInfo.cs
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.dll
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\ref\7. Hot Potato.dll
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.pdb
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.genruntimeconfig.cache
+D:\Download\Visual Studio C#\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.csproj.AssemblyReference.cache

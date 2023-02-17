@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+D:\Download\Visual Studio C#\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+D:\Download\Visual Studio C#\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+D:\Download\Visual Studio C#\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+D:\Download\Visual Studio C#\SpeedRacing\bin\Debug\net6.0\ref\SpeedRacing.dll
+D:\Download\Visual Studio C#\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+D:\Download\Visual Studio C#\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\6. Supermarket\bin\Debug\net6.0\6. Supermarket.exe
+D:\Download\Visual Studio C#\6. Supermarket\bin\Debug\net6.0\6. Supermarket.deps.json
+D:\Download\Visual Studio C#\6. Supermarket\bin\Debug\net6.0\6. Supermarket.runtimeconfig.json
+D:\Download\Visual Studio C#\6. Supermarket\bin\Debug\net6.0\6. Supermarket.dll
+D:\Download\Visual Studio C#\6. Supermarket\bin\Debug\net6.0\ref\6. Supermarket.dll
+D:\Download\Visual Studio C#\6. Supermarket\bin\Debug\net6.0\6. Supermarket.pdb
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.AssemblyInfo.cs
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.dll
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\ref\6. Supermarket.dll
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.pdb
+D:\Download\Visual Studio C#\6. Supermarket\obj\Debug\net6.0\6. Supermarket.genruntimeconfig.cache

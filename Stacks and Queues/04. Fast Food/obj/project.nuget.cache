@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XdMrK0k9ZM24TqkUL241n/KwNOM7SVz17ZNK+b/nLgP2W5QIX649HYDuwGybr/qiw+VQXWgwU598TGz9xtnww==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Visual Studio C#\\04. Fast Food\\04. Fast Food.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Download\Visual Studio C#\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.exe
+D:\Download\Visual Studio C#\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.deps.json
+D:\Download\Visual Studio C#\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.json
+D:\Download\Visual Studio C#\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.dev.json
+D:\Download\Visual Studio C#\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+D:\Download\Visual Studio C#\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfo.cs
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+D:\Download\Visual Studio C#\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.genruntimeconfig.cache

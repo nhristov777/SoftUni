@@ -1,0 +1,14 @@
+D:\Download\Visual Studio C#\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.exe
+D:\Download\Visual Studio C#\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.deps.json
+D:\Download\Visual Studio C#\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.runtimeconfig.json
+D:\Download\Visual Studio C#\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.dll
+D:\Download\Visual Studio C#\8. Traffic Jam\bin\Debug\net6.0\ref\8. Traffic Jam.dll
+D:\Download\Visual Studio C#\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.pdb
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.AssemblyInfo.cs
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.dll
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\ref\8. Traffic Jam.dll
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.pdb
+D:\Download\Visual Studio C#\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.genruntimeconfig.cache

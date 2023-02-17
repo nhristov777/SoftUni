@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFRgXa5SxS5m8aVl40ZH6TGQGbvQa66I/K6cXyTcidiNyxCnT7rOru2v/36+/rOVNEF5hjndbe8jNflbUHKs0w==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Visual Studio C#\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

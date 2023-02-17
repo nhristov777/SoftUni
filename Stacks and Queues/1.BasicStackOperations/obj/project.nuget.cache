@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJXAfmfNTEZ9/SMa3py0TawStSsXWgY8z5NrevWcdzQf9EWwirIX+cmGSUNsVoyAxEcgBJS88JYU7x9mnfmSgA==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Visual Studio C#\\1.BasicStackOperations\\1.BasicStackOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

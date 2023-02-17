@@ -1,0 +1,13 @@
+D:\Download\Visual Studio C#\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+D:\Download\Visual Studio C#\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+D:\Download\Visual Studio C#\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+D:\Download\Visual Studio C#\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+D:\Download\Visual Studio C#\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\Download\Visual Studio C#\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\Download\Visual Studio C#\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache

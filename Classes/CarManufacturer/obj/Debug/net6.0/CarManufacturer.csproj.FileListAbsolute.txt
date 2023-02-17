@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\Download\Visual Studio C#\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\Download\Visual Studio C#\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\Download\Visual Studio C#\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\Download\Visual Studio C#\CarManufacturer\bin\Debug\net6.0\ref\CarManufacturer.dll
+D:\Download\Visual Studio C#\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\Download\Visual Studio C#\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
