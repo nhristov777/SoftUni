@@ -1,0 +1,14 @@
+D:\Download\Visual Studio C#\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.exe
+D:\Download\Visual Studio C#\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.deps.json
+D:\Download\Visual Studio C#\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.runtimeconfig.json
+D:\Download\Visual Studio C#\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.dll
+D:\Download\Visual Studio C#\BirthdayCelebrations\bin\Debug\net6.0\ref\BirthdayCelebrations.dll
+D:\Download\Visual Studio C#\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.pdb
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfo.cs
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.dll
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\ref\BirthdayCelebrations.dll
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.pdb
+D:\Download\Visual Studio C#\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.genruntimeconfig.cache

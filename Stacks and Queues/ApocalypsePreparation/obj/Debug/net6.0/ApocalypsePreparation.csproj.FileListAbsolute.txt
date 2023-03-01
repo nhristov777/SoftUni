@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.exe
+D:\Download\Visual Studio C#\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.deps.json
+D:\Download\Visual Studio C#\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.runtimeconfig.json
+D:\Download\Visual Studio C#\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.dll
+D:\Download\Visual Studio C#\ApocalypsePreparation\bin\Debug\net6.0\ref\ApocalypsePreparation.dll
+D:\Download\Visual Studio C#\ApocalypsePreparation\bin\Debug\net6.0\ApocalypsePreparation.pdb
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.AssemblyInfo.cs
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.dll
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ref\ApocalypsePreparation.dll
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.pdb
+D:\Download\Visual Studio C#\ApocalypsePreparation\obj\Debug\net6.0\ApocalypsePreparation.genruntimeconfig.cache

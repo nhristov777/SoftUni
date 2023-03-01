@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76f307f6-72d1-40bd-b1c9-c445423a9d57": {
+      "ProjectGuid": "76f307f6-72d1-40bd-b1c9-c445423a9d57",
+      "DisplayName": "ApocalypsePreparation",
+      "ColorIndex": 0
+    },
+    "55b494f0-9b5a-47c1-ac7d-3eb37ff674c1": {
+      "ProjectGuid": "55b494f0-9b5a-47c1-ac7d-3eb37ff674c1",
+      "DisplayName": "BlindManBuff",
+      "ColorIndex": 1
+    },
+    "d4df8939-5dc3-42fb-98b5-2d269d4a41a1": {
+      "ProjectGuid": "d4df8939-5dc3-42fb-98b5-2d269d4a41a1",
+      "DisplayName": "SoftUniKindergarten",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

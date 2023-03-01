@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\Person\bin\Debug\net6.0\Person.exe
+D:\Download\Visual Studio C#\Person\bin\Debug\net6.0\Person.deps.json
+D:\Download\Visual Studio C#\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+D:\Download\Visual Studio C#\Person\bin\Debug\net6.0\Person.dll
+D:\Download\Visual Studio C#\Person\bin\Debug\net6.0\ref\Person.dll
+D:\Download\Visual Studio C#\Person\bin\Debug\net6.0\Person.pdb
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.dll
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\ref\Person.dll
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.pdb
+D:\Download\Visual Studio C#\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache

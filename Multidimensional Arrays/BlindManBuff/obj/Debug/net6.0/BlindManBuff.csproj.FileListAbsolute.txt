@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\BlindManBuff\bin\Debug\net6.0\BlindManBuff.exe
+D:\Download\Visual Studio C#\BlindManBuff\bin\Debug\net6.0\BlindManBuff.deps.json
+D:\Download\Visual Studio C#\BlindManBuff\bin\Debug\net6.0\BlindManBuff.runtimeconfig.json
+D:\Download\Visual Studio C#\BlindManBuff\bin\Debug\net6.0\BlindManBuff.dll
+D:\Download\Visual Studio C#\BlindManBuff\bin\Debug\net6.0\ref\BlindManBuff.dll
+D:\Download\Visual Studio C#\BlindManBuff\bin\Debug\net6.0\BlindManBuff.pdb
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.AssemblyInfo.cs
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.dll
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\ref\BlindManBuff.dll
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.pdb
+D:\Download\Visual Studio C#\BlindManBuff\obj\Debug\net6.0\BlindManBuff.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\bin\Debug\net6.0\DefiningInterfaceIPerson.exe
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\bin\Debug\net6.0\DefiningInterfaceIPerson.deps.json
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\bin\Debug\net6.0\DefiningInterfaceIPerson.runtimeconfig.json
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\bin\Debug\net6.0\DefiningInterfaceIPerson.dll
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\bin\Debug\net6.0\ref\DefiningInterfaceIPerson.dll
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\bin\Debug\net6.0\DefiningInterfaceIPerson.pdb
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.AssemblyInfo.cs
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.dll
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\ref\DefiningInterfaceIPerson.dll
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.pdb
+D:\Download\Visual Studio C#\DefiningInterfaceIPerson\obj\Debug\net6.0\DefiningInterfaceIPerson.genruntimeconfig.cache

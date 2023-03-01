@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\BorderControl\bin\Debug\net6.0\BorderControl.exe
+D:\Download\Visual Studio C#\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+D:\Download\Visual Studio C#\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+D:\Download\Visual Studio C#\BorderControl\bin\Debug\net6.0\BorderControl.dll
+D:\Download\Visual Studio C#\BorderControl\bin\Debug\net6.0\ref\BorderControl.dll
+D:\Download\Visual Studio C#\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.dll
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+D:\Download\Visual Studio C#\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache

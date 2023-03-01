@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.exe
+D:\Download\Visual Studio C#\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.deps.json
+D:\Download\Visual Studio C#\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.runtimeconfig.json
+D:\Download\Visual Studio C#\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.dll
+D:\Download\Visual Studio C#\ComputerArchitecture\bin\Debug\net6.0\ref\ComputerArchitecture.dll
+D:\Download\Visual Studio C#\ComputerArchitecture\bin\Debug\net6.0\ComputerArchitecture.pdb
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfo.cs
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.dll
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ref\ComputerArchitecture.dll
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.pdb
+D:\Download\Visual Studio C#\ComputerArchitecture\obj\Debug\net6.0\ComputerArchitecture.genruntimeconfig.cache

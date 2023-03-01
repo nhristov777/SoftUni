@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+D:\Download\Visual Studio C#\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+D:\Download\Visual Studio C#\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+D:\Download\Visual Studio C#\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+D:\Download\Visual Studio C#\NeedForSpeed\bin\Debug\net6.0\ref\NeedForSpeed.dll
+D:\Download\Visual Studio C#\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+D:\Download\Visual Studio C#\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
