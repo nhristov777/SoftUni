@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\01.Square Root\bin\Debug\net6.0\01.Square Root.exe
+D:\Download\Visual Studio C#\01.Square Root\bin\Debug\net6.0\01.Square Root.deps.json
+D:\Download\Visual Studio C#\01.Square Root\bin\Debug\net6.0\01.Square Root.runtimeconfig.json
+D:\Download\Visual Studio C#\01.Square Root\bin\Debug\net6.0\01.Square Root.dll
+D:\Download\Visual Studio C#\01.Square Root\bin\Debug\net6.0\ref\01.Square Root.dll
+D:\Download\Visual Studio C#\01.Square Root\bin\Debug\net6.0\01.Square Root.pdb
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.AssemblyInfo.cs
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.dll
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\ref\01.Square Root.dll
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.pdb
+D:\Download\Visual Studio C#\01.Square Root\obj\Debug\net6.0\01.Square Root.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.exe
+D:\Download\Visual Studio C#\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.deps.json
+D:\Download\Visual Studio C#\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.runtimeconfig.json
+D:\Download\Visual Studio C#\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.dll
+D:\Download\Visual Studio C#\06.MoneyTransactions\bin\Debug\net6.0\ref\06.MoneyTransactions.dll
+D:\Download\Visual Studio C#\06.MoneyTransactions\bin\Debug\net6.0\06.MoneyTransactions.pdb
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.AssemblyInfo.cs
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.dll
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\ref\06.MoneyTransactions.dll
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.pdb
+D:\Download\Visual Studio C#\06.MoneyTransactions\obj\Debug\net6.0\06.MoneyTransactions.genruntimeconfig.cache

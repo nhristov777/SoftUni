@@ -1,0 +1,15 @@
+D:\Download\Visual Studio C#\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.exe
+D:\Download\Visual Studio C#\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.deps.json
+D:\Download\Visual Studio C#\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.runtimeconfig.json
+D:\Download\Visual Studio C#\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.dll
+D:\Download\Visual Studio C#\04.SumOfIntegers\bin\Debug\net6.0\ref\04.SumOfIntegers.dll
+D:\Download\Visual Studio C#\04.SumOfIntegers\bin\Debug\net6.0\04.SumOfIntegers.pdb
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.csproj.AssemblyReference.cache
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.AssemblyInfoInputs.cache
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.AssemblyInfo.cs
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.dll
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\ref\04.SumOfIntegers.dll
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.pdb
+D:\Download\Visual Studio C#\04.SumOfIntegers\obj\Debug\net6.0\04.SumOfIntegers.genruntimeconfig.cache

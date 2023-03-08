@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02cacb8d-4833-4a0e-ad75-8ff79d3df6fa": {
+      "ProjectGuid": "02cacb8d-4833-4a0e-ad75-8ff79d3df6fa",
+      "DisplayName": "01.Square Root",
+      "ColorIndex": 0
+    },
+    "28035817-3ef2-45ab-ad4b-ac0d7322d412": {
+      "ProjectGuid": "28035817-3ef2-45ab-ad4b-ac0d7322d412",
+      "DisplayName": "02.Enter Numbers",
+      "ColorIndex": 1
+    },
+    "c5454f28-3c2b-434c-a990-8cc2e9de4229": {
+      "ProjectGuid": "c5454f28-3c2b-434c-a990-8cc2e9de4229",
+      "DisplayName": "03.Cards",
+      "ColorIndex": 2
+    },
+    "7c6fc8ed-f0ed-4403-9380-f8af11b202d1": {
+      "ProjectGuid": "7c6fc8ed-f0ed-4403-9380-f8af11b202d1",
+      "DisplayName": "04.SumOfIntegers",
+      "ColorIndex": 3
+    },
+    "eb527a3a-9b8f-4f87-b3e2-fe9ef8fca170": {
+      "ProjectGuid": "eb527a3a-9b8f-4f87-b3e2-fe9ef8fca170",
+      "DisplayName": "05.PlayCatch",
+      "ColorIndex": 4
+    },
+    "6f4ecf39-3bee-4be7-8e6a-8fd36e8291e6": {
+      "ProjectGuid": "6f4ecf39-3bee-4be7-8e6a-8fd36e8291e6",
+      "DisplayName": "06.MoneyTransactions",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
