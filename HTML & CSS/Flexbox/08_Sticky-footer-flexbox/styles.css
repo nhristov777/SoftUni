@@ -1,0 +1,31 @@
+body
+{
+    display: flex;
+    background-color: rgb(238, 238,238);
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+    flex-direction: column;
+    border: 2px solid black;
+    margin: 0em;
+}
+
+body *
+{
+    padding: 0.1em;
+}
+footer
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+    border-top: 2px solid black;
+}
+
+header
+{
+    border-bottom: 2px solid black;
+}
+
+main
+{
+    flex-grow: 1;
+}

@@ -1,0 +1,30 @@
+body, ul, li
+{
+    display: flex;
+}
+
+ul
+{
+    list-style: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 70em;
+    gap: 3em;
+}
+
+ul li
+{
+    display: flex;
+    border: 5px solid black;
+}
+
+img
+{
+    align-items: center;
+    flex-basis: 100%;
+}
+
+body
+{
+    background-color: #EEE;
+}
