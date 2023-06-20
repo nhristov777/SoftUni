@@ -1,2 +1,2 @@
 # SoftUni
-softuni exercises
+SoftUni Exercises
